@@ -10,6 +10,7 @@ namespace NewGitProgram
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("ddd");
         }
     }
 }
